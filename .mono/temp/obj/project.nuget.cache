@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZn1SbWJH8cD/3Q757C90gtCi2PYES+QyYuFAizoXHpE1jvnNz+/oUOt9Hr99wfxVZAmTQQpTm5bhinB80aZBg==",
+  "success": true,
+  "projectFilePath": "/home/ariel/Escritorio/MoverPersonajeGodot/MoverPersonajeGodot.csproj",
+  "expectedPackageFiles": [
+    "/home/ariel/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/ariel/.nuget/packages/microsoft.netframework.referenceassemblies.net47/1.0.0/microsoft.netframework.referenceassemblies.net47.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+/home/ariel/Escritorio/MoverPersonajeGodot/.mono/temp/obj/Debug/MoverPersonajeGodot.csprojAssemblyReference.cache
+/home/ariel/Escritorio/MoverPersonajeGodot/.mono/temp/obj/Debug/MoverPersonajeGodot.csproj.CoreCompileInputs.cache
+/home/ariel/Escritorio/MoverPersonajeGodot/.mono/temp/bin/Debug/MoverPersonajeGodot.dll
+/home/ariel/Escritorio/MoverPersonajeGodot/.mono/temp/bin/Debug/MoverPersonajeGodot.pdb
+/home/ariel/Escritorio/MoverPersonajeGodot/.mono/temp/obj/Debug/MoverPersonajeGodot.dll
+/home/ariel/Escritorio/MoverPersonajeGodot/.mono/temp/obj/Debug/MoverPersonajeGodot.pdb
